@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../rectangles/rectangles.iml" filepath="$PROJECT_DIR$/../rectangles/rectangles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/space-age.iml" filepath="$PROJECT_DIR$/.idea/space-age.iml" />
+      <module fileurl="file://$USER_HOME$/code/rust/two_bucket/two_bucket.iml" filepath="$USER_HOME$/code/rust/two_bucket/two_bucket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wordy/wordy.iml" filepath="$PROJECT_DIR$/../wordy/wordy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xorcism/xorcism.iml" filepath="$PROJECT_DIR$/../xorcism/xorcism.iml" />
+    </modules>
+  </component>
+</project>
